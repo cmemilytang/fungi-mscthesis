@@ -1,0 +1,35 @@
+country	type	samples
+Australia	Case	139
+Australia	Control	76
+Belgium	Case	132
+Belgium	Control	29
+China	Case	280
+China	Control	306
+Czech Republic	Case	94
+Czech Republic	Control	62
+France	Case	8
+France	Control	0
+Germany	Case	108
+Germany	Control	39
+India	Case	46
+India	Control	23
+Ireland	Case	80
+Ireland	Control	64
+Italy	Case	20
+Italy	Control	17
+Japan	Case	76
+Japan	Control	24
+Mexico	Case	4
+Mexico	Control	0
+Poland	Case	105
+Poland	Control	39
+South Korea	Case	99
+South Korea	Control	30
+Spain	Case	31
+Spain	Control	12
+Thailand	Case	17
+Thailand	Control	17
+United Kingdom	Case	43
+United Kingdom	Control	47
+United States of America	Case	68
+United States of America	Control	0
