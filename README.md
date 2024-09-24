@@ -7,7 +7,7 @@ This repository serves as the **Appendix** for the MSc thesis written by Chumei 
   Contains scripts used for processing and analyzing human gut mycobiome sequencing data and associated sample metadata.
   
 - [**data/**](./data/)  
-  Contains metadata used in the analyses, along with result summaries and statistical tables (TSV/Excel files) generated from the analyses. Note that many Qiime 2 artifacts exceed GitHub's file size limits and are therefore not included.
+  Contains metadata used in the analyses, along with result summaries and statistical tables (TSV/Excel files) generated from the analyses. Note that many QIIME 2 artifacts exceed GitHub's file size limits and are therefore not included.
 
 - [**plots/**](./plots/)  
   Contains visualizations generated from the analyses, including key figures presented in the thesis and additional supplementary plots.
